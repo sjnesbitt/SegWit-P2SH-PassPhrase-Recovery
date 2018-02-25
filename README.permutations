@@ -1,0 +1,3 @@
+This script, as well as all others, are use at your own risk.   This script will take a 24 word passphrase and create new passphrases only using the original 24 words.   Note it will take forever, if ever to complete, so this is a last resort.  Ctl-Z then kill -HUP PID for this script may flush the write buffer and place in file that you are piping to:  example: python3 permutations.py > Potential_passphrases.txt
+
+Good luck.
